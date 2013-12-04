@@ -1,0 +1,6 @@
+{
+    "name" : "Join Call",
+    "description" : "Enter received incoming call into a conference with an agent",
+    "type" : "voice"
+}
+

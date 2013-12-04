@@ -1,0 +1,18 @@
+{
+    "name" : "Combine Call Transfer Package",
+    "author" : "Rubaiet Mahbub <rubaiet.mahbub@gmail.com>",
+    "description" : "Enable call as conference by creating a unique conference room and adding both caller and receiver. Allow admin to add recording option with conference.",
+    "url" : "http://phpplayers.com",
+	"links" : [{
+		"menu" : "Call Transfer",
+		"url" : "transfer",
+		"script" : "transfer.php",
+		"label" : "Call Transfer"
+	},
+	{
+		"menu" : "Call Log",
+		"url" : "log",
+		"script" : "call_log.php",
+		"label" : "Inbound Calls"
+	}]
+}
